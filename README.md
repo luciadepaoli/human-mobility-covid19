@@ -1,4 +1,3 @@
-# human-mobility-covid19
 # Human Mobility and COVID-19 epidemic correlation. 
 
 ## Project for Life Data Epidemiology course at University of Padova.

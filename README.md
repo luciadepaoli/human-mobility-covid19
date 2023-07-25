@@ -24,6 +24,6 @@ The project involves only italian data. The correlation was evaluated considerin
 ### Results achieved:
 - Mobility variables and $𝑅_𝑡$ number are correlated
 - - Lockdowns were useful for the reduction of the spreading
--- By monitoring the occupation of the places, we can monitor the spreading of the disease
--- A reduction in mobility led to a reduction in $𝑅_𝑡$ number, the spreading of the disease was reduced
--- By impose specific restrictions , we can control the spreading of the disease
+- - By monitoring the occupation of the places, we can monitor the spreading of the disease
+- - A reduction in mobility led to a reduction in $𝑅_𝑡$ number, the spreading of the disease was reduced
+- - By impose specific restrictions , we can control the spreading of the disease

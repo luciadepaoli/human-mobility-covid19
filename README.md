@@ -9,7 +9,7 @@
 Governments and the scientific community needed to find a way to reduce the spreading of the disease.
 The aim of this project is to answers questions such as: How was COVID-19 epidemic influenced by reducing-spreading factors such as masks, mobility restrictions, and were lockdowns useful for the reduction of the spreading?
 
-For more information, see the [paper](https://github.com/luciadepaoli/smart-grid-shapley-value/blob/main/Smart_Grid_Depaoli_Fella.pdf).
+For more information, see the [report](https://github.com/luciadepaoli/human-mobility-covid19/blob/main/human_mobility_covid.pdf).
 
 ### Introduction
 In this work I've evaluated the correlation between different mobility indicators, namely:

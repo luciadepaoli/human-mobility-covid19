@@ -3,7 +3,7 @@
 
 ## Project for Life Data Epidemiology course at University of Padova.
 
-**Authors**: Lucia Depaoli
+**Author**: Lucia Depaoli
 
 **Project Summary**: the COVID-19 epidemic had an unprecedent effect on human mobility.
 Governments and the scientific community needed to find a way to reduce the spreading of the disease.
